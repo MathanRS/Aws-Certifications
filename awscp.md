@@ -1,21 +1,4 @@
 # Course Outline
-
-## Module 1: Get to Know the Exam
-- **Introduction to AWS Certified Cloud Practitioner (CLF-C02)**  
-- **Overview: AWS Certified Cloud Practitioner (CLF-C02)**  
-- **Exam Guide: AWS Certified Cloud Practitioner (CLF-C02)**  
-
-## Module 2: Get to Know Exam-Style Questions
-- **Introduction to Exam-Style Questions**  
-- **Overview and Instructions: Official Practice Question Set**  
-- **AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English)** 
-
-## Module 3: Learn About Exam Topics
-- **AWS Training Recommendations**  
-- **Whitepapers**  
-
-## Module 4: Prepare for the Exam
-
 ### Domain 1: Cloud Concepts
 - **Lesson 1:** Introduction to Cloud Concepts  
 - **Lesson 2:** Define the Benefits of the AWS Cloud  
